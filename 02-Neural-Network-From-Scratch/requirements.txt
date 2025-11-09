@@ -1,0 +1,16 @@
+# Neural Network From Scratch - Requirements
+
+# Core Libraries (NumPy only for ML implementation)
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Note: This project intentionally uses ONLY NumPy for ML implementation
+# to demonstrate understanding of neural network fundamentals.
+# No scikit-learn, TensorFlow, or PyTorch required!
+
